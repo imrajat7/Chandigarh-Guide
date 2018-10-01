@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="image_item_height">180dp</dimen>
+    <dimen name="location_text_view">18sp</dimen>
+    <dimen name="address_text_view">16sp</dimen>
+    <dimen name="location_padding">10dp</dimen>
+    <dimen name="address_padding">8dp</dimen>
+    <dimen name="card_padding">50dp</dimen>
+    <dimen name="description_image_height">250dp</dimen>
+    <dimen name="description_frame">5dp</dimen>
+    <dimen name="description_text">25sp</dimen>
+    <dimen name="description_content">20sp</dimen>
+    <dimen name="tab_indicator_height">5dp</dimen>
+</resources>
